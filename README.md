@@ -55,4 +55,4 @@ This project is part of the freeCodeCamp [Front End Libraries](https://www.freec
 
 ## Demo
 
-You can preview a demo of this project at [React Quote Generator](https://major101x.github.io/quote-generator-react.github.io/)
+You can preview a demo of this project at [React Quote Generator](https://major101x.github.io/quote-generator-react/)
